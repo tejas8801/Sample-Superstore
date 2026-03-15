@@ -51,10 +51,17 @@ Line plot for sales trends over time
    
 Key Insights
 Sales distribution across regions
+
 Top-performing products
+
 Profitability by region
+
 Monthly sales fluctuations
+
 Future Scope
+
 More advanced SQL queries (joins, subqueries)
+
 Build a dashboard (e.g. using Streamlit)
+
 Predictive modeling on sales trends
