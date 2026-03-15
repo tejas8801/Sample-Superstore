@@ -8,15 +8,14 @@ Cleaned and explored the dataset using pandas.
 Stored and queried the data using SQLite directly inside Python.
 Performed SQL queries to extract business insights.
 Created beautiful visualizations using seaborn and matplotlib.
-Tools & Technologies
+# Tools & Technologies
 Python (pandas, sqlite3, seaborn, matplotlib)
 SQL (SQLite)
 Google Colab (Jupyter environment)
 Kaggle API (for automated data download)
-Dataset
-Source: Kaggle - Superstore Dataset
-File used: Sample - Superstore.csv
-Note: Due to Kaggle's terms, the raw dataset is not included in this repo. You can download it directly from Kaggle.
+# Dataset
+data=
+
 
 # Project Workflow
 
