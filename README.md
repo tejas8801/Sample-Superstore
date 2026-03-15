@@ -30,7 +30,7 @@ Checked column names, data types, missing values.
 Generated summary statistics.
 
 4️. Store Data in SQLite Database
-Created a local SQLite database file (superstore.db).
+Created a local SQLite database file (Samplesuperstore.db).
 Loaded the cleaned DataFrame into SQL table Orders.
 
 5️. SQL Queries
