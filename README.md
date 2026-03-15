@@ -46,7 +46,7 @@ Bar plots for sales and profits
 Line plot for sales trends over time
 
 7. Sample Visualizations
-
+Screenshot 2026-03-16 035150.png
    
 Key Insights
 Sales distribution across regions
