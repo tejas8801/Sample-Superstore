@@ -47,6 +47,9 @@ Line plot for sales trends over time
 
 # Visualizations
 https://github.com/tejas8801/Sample-Superstore/blob/main/Screenshot%202026-03-16%20035150.png
+https://github.com/tejas8801/Sample-Superstore/blob/main/Screenshot%202026-03-16%20035216.png
+https://github.com/tejas8801/Sample-Superstore/blob/main/Screenshot%202026-03-16%20035230.png
+https://github.com/tejas8801/Sample-Superstore/blob/main/Screenshot%202026-03-16%20035256.png
 
    
 # Key Insights
