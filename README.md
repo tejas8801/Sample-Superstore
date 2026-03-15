@@ -24,8 +24,7 @@ Automated download directly inside Google Colab.
 
 2️. Load Data
 Read the CSV file into pandas, handle encoding issues using latin1 encoding.
-
-3. Explore Data
+3.Explore Data
 Checked column names, data types, missing values.
 Generated summary statistics.
 
