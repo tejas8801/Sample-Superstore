@@ -14,7 +14,7 @@ SQL (SQLite)
 Google Colab (Jupyter environment)
 Kaggle API (for automated data download)
 # Dataset
-data=
+-<a href='https://github.com/tejas8801/Sample-Superstore/blob/main/Sample%20-%20Superstore.csv'>Dataset</a>
 
 
 # Project Workflow
