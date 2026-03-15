@@ -45,7 +45,8 @@ Created various charts to visualize business insights
 Bar plots for sales and profits
 Line plot for sales trends over time
 
-7. Sample Visualizations
+# Visualizations
+https://github.com/tejas8801/Sample-Superstore/blob/main/Screenshot%202026-03-16%20035150.png
 
    
 # Key Insights
@@ -57,7 +58,7 @@ Profitability by region
 
 Monthly sales fluctuations
 
-Future Scope
+# Future Scope
 
 More advanced SQL queries (joins, subqueries)
 
